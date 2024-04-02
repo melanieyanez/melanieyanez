@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+<img src="cat.gif">
+
 I'm Melanie, a technology enthusiast with a background in environmental sciences. Currently studying programming at School 42!
 
 ## About Me
