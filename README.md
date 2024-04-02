@@ -4,7 +4,7 @@
   <img src="cat.gif" width="250">
 </div>
 
-I'm Melanie, a technology enthusiast with a background in environmental sciences. Currently studying programming at School 42!
+I'm Melanie, a technology enthusiast with a background in environmental sciences. Currently studying programming at 42 School!
 
 ## About Me
 
@@ -27,6 +27,7 @@ Feel free to explore and provide feedback!
 📊 **Data Analysis:** Skilled in R, Matlab, and Python for data analysis and visualization.  
 🛠️ **Programming:** Experienced in C and C++ for software development.  
 🗃️ **Databases:** Familiar with SQL for database management and querying.  
+🧰 **Tools:** Competent with VIM, VSCode, and Git for efficient coding and version control.  
 
 ## Let's Connect
 
