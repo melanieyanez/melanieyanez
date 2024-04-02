@@ -24,9 +24,9 @@ Feel free to explore and provide feedback!
 
 ## Skills
 
-📊 **Data Analysis:** Skilled in R, Matlab, and Python for data analysis and visualization.
-🛠️ **Programming:** Experienced in C and C++ for software development.
-🗃️ **Databases:** Familiar with SQL for database management and querying.
+📊 **Data Analysis:** Skilled in R, Matlab, and Python for data analysis and visualization.  
+🛠️ **Programming:** Experienced in C and C++ for software development.  
+🗃️ **Databases:** Familiar with SQL for database management and querying.  
 
 ## Let's Connect
 
