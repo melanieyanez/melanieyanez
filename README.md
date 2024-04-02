@@ -4,8 +4,6 @@
   <img src="cat.gif" width="250">
 </div>
 
-<div align="justify">
-
 I'm Melanie, a technology enthusiast with a background in environmental sciences. Currently studying programming at School 42!
 
 ## About Me
@@ -16,13 +14,19 @@ I'm Melanie, a technology enthusiast with a background in environmental sciences
 
 ## Current Focus
 
-🎓 Currently a student at School 42, I'm immersing myself in programming and technology to push the boundaries of innovation.
+🎓 Currently a student at 42 School, I'm immersing myself in programming and technology to push the boundaries of innovation.
 
 ## Projects
 
-🔍 You can find all my projects on [my School 42 repository](https://github.com/melanieyanez/cursus_42.git), where I'm currently learning and practicing programming languages such as C and C++.
+🔍 You can find all my projects on [my 42 School repository](https://github.com/melanieyanez/cursus_42.git), where I'm currently learning and practicing programming languages such as C and C++.
 
 Feel free to explore and provide feedback!
+
+## Skills
+
+📊 **Data Analysis:** Skilled in R, Matlab, and Python for data analysis and visualization.
+🛠️ **Programming:** Experienced in C and C++ for software development.
+🗃️ **Databases:** Familiar with SQL for database management and querying.
 
 ## Let's Connect
 
@@ -30,4 +34,3 @@ Feel free to explore and provide feedback!
 
 Let's harness the power of technology to create a sustainable future and soar to new heights together! 🌍🚀
 
-</div>
