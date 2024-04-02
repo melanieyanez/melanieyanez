@@ -27,7 +27,7 @@ Feel free to explore and provide feedback!
 📊 **Data Analysis:** Skilled in R, Matlab, and Python for data analysis and visualization.  
 🛠️ **Programming:** Experienced in C and C++ for software development.  
 🗃️ **Databases:** Familiar with SQL for database management and querying.  
-💡 **Terminal Shell:** Familiar with terminal shell commands for automation and system management.  
+💡 **Terminal Shell:** Proficient with terminal shell commands for automation and system management.  
 🧰 **Tools:** Competent with VIM, VSCode, and Git for efficient coding and version control.  
 
 ## Let's Connect
