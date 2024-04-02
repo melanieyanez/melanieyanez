@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-<img src="cat.gif">
+<div align="center">
+  <img src="cat.gif" width="300">
+</div>
 
 I'm Melanie, a technology enthusiast with a background in environmental sciences. Currently studying programming at School 42!
 
