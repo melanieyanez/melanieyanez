@@ -1,8 +1,10 @@
 # Hi there! 👋
 
 <div align="center">
-  <img src="cat.gif" width="300">
+  <img src="cat.gif" width="250">
 </div>
+
+<div align="justify">
 
 I'm Melanie, a technology enthusiast with a background in environmental sciences. Currently studying programming at School 42!
 
@@ -28,3 +30,4 @@ Feel free to explore and provide feedback!
 
 Let's harness the power of technology to create a sustainable future and soar to new heights together! 🌍🚀
 
+</div>
