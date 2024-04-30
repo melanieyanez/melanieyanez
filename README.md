@@ -6,6 +6,8 @@
 
 I'm Melanie, a technology enthusiast with a background in environmental sciences. Currently studying programming at 42 School!
 
+Also, I love cats!
+
 ## About Me
 
 🌱 I started my journey with a passion for the environment and gaining experience in data analysis.
