@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <div align="center">
-  <img src="cat.gif" width="250">
+  <img src="cat_desktop.jpg" width="250">
 </div>
 
 I'm Melanie, a technology enthusiast with a background in environmental sciences. Currently studying programming at 42 School!
