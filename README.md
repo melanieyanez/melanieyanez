@@ -6,7 +6,7 @@
 
 I'm Melanie, a technology enthusiast with a background in environmental sciences. Currently studying programming at 42 School!
 
-Also, I love cats!
+Also, I love cats! 🐈‍⬛
 
 ## About Me
 
@@ -26,12 +26,12 @@ Feel free to explore and provide feedback!
 
 ## Skills
 
-📊 **Data Analysis:** Skilled in R, Matlab, and Python for data analysis and visualization.  
-🛠️ **Programming:** Experienced in C, C++ and Python for software development and web programming. 
-🗃️ **Databases:** Familiar with SQL for database management and querying.
-💡 **Web Development:** Qualified in HTML, CSS, Bootstrap, JavaScript, and Django for creating responsive and dynamic web applications.
-💻 **Terminal Shell:** Proficient with terminal shell commands for automation and system management.  
-🧰 **Tools:** Competent with VIM, VSCode, Docker, and Git for efficient coding, containerization, and version control.  
+📊 **Data Analysis:** Skilled in R, Matlab, and Python for data analysis and visualization.<br>
+🛠️ **Programming:** Experienced in C, C++ and Python for software development and web programming.<br>
+🗃️ **Databases:** Familiar with SQL for database management and querying.<br>
+💡 **Web Development:** Qualified in HTML, CSS, Bootstrap, JavaScript, and Django for creating responsive and dynamic web applications.<br>
+💻 **Terminal Shell:** Proficient with terminal shell commands for automation and system management.<br>
+🧰 **Tools:** Competent with VIM, VSCode, Docker, and Git for efficient coding, containerization, and version control.<br> 
 
 ## Let's Connect
 
